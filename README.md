@@ -1,6 +1,9 @@
 # audio-via-wifi
+
+## Introduction
 * 把 MacOS 电脑上的音频发送到IPHONE上并播放出来。
-* 让 Iphone 充当喇叭
+* 让 Iphone 充当喇叭。
+* 构建一个网络应用程序是很有趣的。
 
 
 ### 知识储备
